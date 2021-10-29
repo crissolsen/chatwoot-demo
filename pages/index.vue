@@ -1,6 +1,7 @@
 <template>
   <div>
     Hello world!
+    <ChatWidget />
   </div>
 </template>
 
